@@ -1,3 +1,7 @@
+#Magic Cube (Ball)
+
+<img width="1440" alt="Screenshot 2022-11-30 at 20 58 19" src="https://user-images.githubusercontent.com/111701135/204815114-6532293f-1b89-4dd7-a64c-d13bdf2301f3.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
