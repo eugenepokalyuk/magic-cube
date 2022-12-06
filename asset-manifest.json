@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/magic-cube/static/css/main.2719f6d8.css",
+    "main.js": "/magic-cube/static/js/main.9591ff67.js",
+    "static/js/787.c2537b4b.chunk.js": "/magic-cube/static/js/787.c2537b4b.chunk.js",
+    "static/media/ball-1.png": "/magic-cube/static/media/ball-1.152a63768e991e397214.png",
+    "static/media/background.jpeg": "/magic-cube/static/media/background.9b083eb598dc2164a44e.jpeg",
+    "index.html": "/magic-cube/index.html",
+    "main.2719f6d8.css.map": "/magic-cube/static/css/main.2719f6d8.css.map",
+    "main.9591ff67.js.map": "/magic-cube/static/js/main.9591ff67.js.map",
+    "787.c2537b4b.chunk.js.map": "/magic-cube/static/js/787.c2537b4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2719f6d8.css",
+    "static/js/main.9591ff67.js"
+  ]
+}
